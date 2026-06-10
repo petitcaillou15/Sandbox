@@ -1,12 +1,15 @@
 # Sandbox 
 
-Premier projet en équipe, codé en C++ et en orienté objet. Ce projet de sandbox consiste à gérer les différents type de matériaux et leurs intéractions entre elles. 
-Il y a 4 matériau : la roche, le sable, les champignons et l'acide.
-La roche peu être mise n'importe où sur la feunêtre et reste là où on l'a mis.
+Premier projet en équipe, codé en C++ et en orientée objet. Ce projet de sandbox consiste à gérer les différents types de matériaux et leurs interactions entre elles. 
 
-Le sable tombe et empêche la formation de champignons.
+Il y a 4 matériaux : la roche, le sable, les champignons et l'acide. 
 
-Les champignons tombent eux aussi mais ne peuvent pousser que sur la roche et résiste à l'acide.
+La roche peu être mise n'importe où sur la fenêtre et reste là où on l'a mis. 
 
-L'acide peut faire fondre la roche et le sable mais pas les champignons.
+Le sable tombe et empêche la formation de champignons. 
 
+Les champignons tombent eux aussi mais ne peuvent pousser que sur la roche et résistent à l'acide. 
+
+L'acide peut faire fondre la roche et le sable mais pas les champignons. 
+
+Ce projet a été le premier projet que j'ai effectué en groupe et m'a permis de me familiariser avec les commandes github. Il a aussi mis en avant les principaux problèmes de standardisation du code (car chacun code à sa manière), il a donc fallu se mettre d'accord sur les noms de variables et des méthodes. Enfin, ça a été une bonne introduction à la programmation orienté objet et à SFML pour le frontend.
