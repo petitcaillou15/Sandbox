@@ -12,4 +12,6 @@ Les champignons tombent eux aussi mais ne peuvent pousser que sur la roche et r�
 
 L'acide peut faire fondre la roche et le sable mais pas les champignons. 
 
+Il est aussi possible de changer la taille de la brosse.
+
 Ce projet a été le premier projet que j'ai effectué en groupe et m'a permis de me familiariser avec les commandes github. Il a aussi mis en avant les principaux problèmes de standardisation du code (car chacun code à sa manière), il a donc fallu se mettre d'accord sur les noms de variables et des méthodes. Enfin, ça a été une bonne introduction à la programmation orienté objet et à SFML pour le frontend.
